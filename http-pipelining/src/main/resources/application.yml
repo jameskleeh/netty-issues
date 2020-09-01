@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: testPlaintext
+  server:
+    netty:
+      access-logger:
+        enabled: true

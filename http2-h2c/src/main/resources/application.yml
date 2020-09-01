@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: testPlaintext
+  server:
+    http-version: 2.0
