@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: jwt.upload
+---
+testFramework: junit
+sourceLanguage: java
